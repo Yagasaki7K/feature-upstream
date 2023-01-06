@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Update the main repository with the latest changes from the fork
+git pull upstream master
+git push origin master
